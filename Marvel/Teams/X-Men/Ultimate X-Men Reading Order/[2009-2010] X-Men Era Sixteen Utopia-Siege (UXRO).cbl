@@ -177,8 +177,8 @@
 <Book Series="X-Force" Number="18" Volume="2008" Year="2009">
 <Database Name="cv" Series="20511" Issue="168465" />
 </Book>
-<Book Series="X-Necrosha" Number="1" Volume="2010" Year="2010">
-<Database Name="cv" Series="34001" Issue="221765" />
+<Book Series="X-Necrosha" Number="1" Volume="2009" Year="2009">
+<Database Name="cv" Series="29125" Issue="179203" />
 </Book>
 <Book Series="X-Force" Number="20" Volume="2008" Year="2009">
 <Database Name="cv" Series="20511" Issue="179171" />
